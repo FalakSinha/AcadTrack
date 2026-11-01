@@ -153,12 +153,6 @@ Enter your choice (1-8): [User Input]
 B.Tech, Computer Science and Engineering  
 Specialization in Artificial Intelligence
 
-## Project Status
-
-Current version: 3.0
-
-AcadTrack is an independently developed C programming project.
-
 
 ## Conclusion
 
