@@ -81,6 +81,60 @@ AcadTrack.exe
 
 AcadTrack stores records locally in a binary file named `acadtrack_v3.dat`. Existing records are loaded when the program starts.
 
+## Sample Program Output
+
+### Main Menu
+
+```text
+==================================================
+              ACADTRACK
+       Academic Performance & Planning System
+==================================================
+
+1. Create Student Profile
+2. View All Student Profiles
+3. Search / Manage Student
+4. Update Student Profile
+5. Delete Student Profile
+6. Save Data
+7. Exit
+
+Enter your choice:
+```
+
+### Student Dashboard
+
+```text
+==================================================
+              STUDENT DASHBOARD
+==================================================
+
+Student Name : [Student Name]
+Roll Number  : [Roll Number]
+Semester     : [Semester]
+
+1. View Academic Records
+2. Add Subject / Marks
+3. Performance Analysis
+4. Attendance Analysis
+5. Academic Target Calculator
+6. Study Priorities
+7. Back to Main Menu
+
+Enter your choice:
+```
+
+### Key Capabilities
+
+- Manage student profiles using unique roll numbers.
+- Maintain subject-wise marks and attendance records.
+- Analyse academic performance and identify strong and weak subjects.
+- Monitor attendance percentages and attendance requirements.
+- Calculate marks required to reach an academic target.
+- Identify subjects that need more attention.
+- Store records locally using binary file handling.
+
+
 ## Developer
 
 **Falak Sinha**
@@ -93,3 +147,12 @@ Specialization in Artificial Intelligence
 Current version: 3.0
 
 AcadTrack is an independently developed C programming project.
+
+
+## Conclusion
+
+AcadTrack is a C-based academic management system designed to simplify the process of maintaining and analysing student academic records. It brings together student profile management, subject-wise marks, attendance tracking, performance analysis, and academic goal planning in one application.
+
+The project demonstrates the practical use of C programming concepts such as structures, arrays, functions, input validation, and file handling. It also provides a foundation for future improvements, including a graphical interface, database integration, and multi-user accessibility.
+
+AcadTrack aims to make academic record management more organised, accessible, and efficient.
