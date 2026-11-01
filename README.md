@@ -1,9 +1,9 @@
 # AcadTrack
-### Academic Tracking, Performance Analysis & Planning System
+### Student Academic Tracking & Performance Analysis System
 
-AcadTrack is a C-based academic tracking and planning system designed to help students monitor their academic progress, evaluate performance, track attendance, and plan their learning goals. It combines academic record management with performance analysis and personalised study priorities, providing students with a structured way to understand and improve their academic journey.
+AcadTrack is a C-based academic tracking system designed to help students monitor, evaluate and understand their academic progress. It combines academic record management with performance analysis, attendance monitoring, academic goal calculation and study priority recommendations.
 
-Rather than simply storing academic records, AcadTrack transforms student data into meaningful insights that help identify strengths, recognise areas requiring improvement, and support better academic planning.
+Rather than simply storing student records, AcadTrack transforms academic data into meaningful insights, helping students identify their strengths, recognise areas that need improvement and make more informed decisions about their academic progress.
 
 
 ## Features
