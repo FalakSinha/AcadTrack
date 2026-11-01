@@ -86,42 +86,50 @@ AcadTrack stores records locally in a binary file named `acadtrack_v3.dat`. Exis
 ### Main Menu
 
 ```text
-==================================================
-              ACADTRACK
-       Academic Performance & Planning System
-==================================================
+ACADEMIC PERFORMANCE & PLANNING           
+====================================================
 
-1. Create Student Profile
-2. View All Student Profiles
-3. Search / Manage Student
-4. Update Student Profile
-5. Delete Student Profile
-6. Save Data
-7. Exit
+Welcome to AcadTrack!
+Manage academic records and track student progress.
 
-Enter your choice:
+Total saved student profiles: 0
+
+====================================================
+                    MAIN MENU                       
+====================================================
+ 1. Add New Student Profile
+ 2. View All Student Profiles
+ 3. Search and Manage a Student
+ 4. Update Student Profile
+ 5. Delete Student Profile
+ 6. Save Records
+ 7. Exit Program
+====================================================
+
+Enter your choice (1-7):
 ```
 
-### Student Dashboard
+
+### Student Academic Menu
 
 ```text
-==================================================
-              STUDENT DASHBOARD
-==================================================
+====================================================
+              STUDENT ACADEMIC MENU
+====================================================
+Student: [Student Name]
+Roll No: [Student Roll Number]
 
-Student Name : [Student Name]
-Roll Number  : [Roll Number]
-Semester     : [Semester]
-
-1. View Academic Records
-2. Add Subject / Marks
-3. Performance Analysis
+1. Add Subject and Marks
+2. View Academic Records
+3. Analyze Overall Performance
 4. Attendance Analysis
 5. Academic Target Calculator
 6. Study Priorities
-7. Back to Main Menu
+7. Update Student Profile
+8. Back to Main Menu
+====================================================
 
-Enter your choice:
+Enter your choice (1-8): [User Input]
 ```
 
 ### Key Capabilities
